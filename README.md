@@ -56,5 +56,73 @@
 -HashMap, HashTable
 -TreeMap
 
-<h3> 8주차 컬렉션 프레임워크 </h3>
+<h3> 8주차 제너릭스,어노테이션, 열거형 </h3>
+- 지네릭스의 특징, 장점
+- 지네릭스 사용법 (선언, 제한)
+- 와일드카드
+- 지네릭 타입의 제거
+- 열거형의 특징, 장점
+- 열거형 사용법
+- 에너테이션의 특징, 장점, 규칙
+- 자바에서 제공하는 표준 에너테이션
+- 메타 에너테이션
+- 에너테이션 정의하는 방법
+
+<h3> 9주차 람다식과 스트림 </h3>
+- 람다식의 특징과 작성하는 법
+- 함수형 인터페이스 람다식으로 처리하기
+- Collection 프레임워크, Java.util.function 패키지 내의 함수형 인터페이스
+- 메서드 참조
+- 스트림의 특징
+-스트림의 중간연산, 최종연산
+- Optional 타입
+- Collector 인터페이스의 특징과 구현법
+
+<h3> 10주차 쓰레드 </h3>
+- 프로세스와 쓰레드, 멀티태스킹과 멀티쓰레딩
+- 쓰레드의 구현과 실행(Thread 상속, Runnable 인터페이스 구현)
+- 싱글쓰레드와 멀티쓰레드
+- 쓰레드의 우선순위와 지정하는법
+- 쓰레드 그룹
+- 데몬 쓰레드
+- 쓰레드의 실행제어
+- 쓰레드의 동기화(synchronized, wait,notify, Lock, Condition,  volatile, fork & join framework)
+
+<h3> 14주차 스프링과 스프링부트 </h3>
+- 스프링이란
+- 스프링과 스프링부트의 차이
+- 스프링 부트 프로젝트 세팅
+- 스프링 부트 동작 환경
+- 컨트롤러 매핑
+
+<h3> 15주차 의존주입 </h3>
+- 의존주입 개념
+- 의존주입의 장점
+- 의존 주입 예시
+- 스프링에서의 의존주입 방식
+-- 빈, 의존자동주입, 컴포넌트 스캔
+- Autowired, ComponentScan 사용시 충돌처리
+
+<h3> 16주차 스프링 MVC </h3>
+- 스프링 MVC 핵심 구성 요소
+- 스프링 MVC 동작 방식
+-- DispatcherServlet 과 스프링 컨테이너(HandlerMapping, HandlerAdapter, ViewResolver, Controller Bean)
+-- 스프링 컨트롤러의 우선순위
+
+<h3> 16주차 스프링 MVC </h3>
+- 스프링 MVC 핵심 구성 요소
+- 스프링 MVC 동작 방식
+-- DispatcherServlet 과 스프링 컨테이너(HandlerMapping, HandlerAdapter, ViewResolver, Controller Bean)
+-- 스프링 컨트롤러의 우선순위
+
+<h3> 17주차 DB 연동 </h3>
+- db 선정과 스프링 db 설정
+- jdbcTemplate 연동법
+- jpa 사용법
+
+<h3> 18주차 AOP(Aspect Oriented Programming) </h3>
+- 프록시
+- 핵심기능과 공통기능
+- 스프링 AOP 구현법
+
 </pre>
