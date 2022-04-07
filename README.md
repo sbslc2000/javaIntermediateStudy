@@ -143,6 +143,13 @@
 - 트랜잭션
 
 
+<h3> 28주차 AOP(Aspect Oriented Programming) </h3>
+- 프록시
+- 핵심기능과 공통기능
+- 스프링 AOP 구현법
+- 트랜잭션
+
+
 
 
 
