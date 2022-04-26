@@ -109,12 +109,6 @@
 -- DispatcherServlet 과 스프링 컨테이너(HandlerMapping, HandlerAdapter, ViewResolver, Controller Bean)
 -- 스프링 컨트롤러의 우선순위
 
-<h3> 16주차 스프링 MVC </h3>
-- 스프링 MVC 핵심 구성 요소
-- 스프링 MVC 동작 방식
--- DispatcherServlet 과 스프링 컨테이너(HandlerMapping, HandlerAdapter, ViewResolver, Controller Bean)
--- 스프링 컨트롤러의 우선순위
-
 <h3> 17주차 DB 연동 </h3>
 - db 선정과 스프링 db 설정
 - jdbcTemplate 연동법
@@ -136,12 +130,6 @@
 
 
 
-
-<h3> 28주차 AOP(Aspect Oriented Programming) </h3>
-- 프록시
-- 핵심기능과 공통기능
-- 스프링 AOP 구현법
-- 트랜잭션
 
 
 
